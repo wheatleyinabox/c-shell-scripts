@@ -1,0 +1,36 @@
+att_subscribers
+1 4 false
+cpp_library_guest
+2 4 true
+eduroam
+2 5 true
+verizon_global
+1 4 true
+cpp_faculty_hidden
+2 5 false
+cris_hotspot
+2 3 false
+starlink
+1 2 true
+your_actual_isp
+1 1 true
+free_virus
+2 3 false
+loon_llc
+1 3 false
+lord_voldemodem
+2 4 true
+sprint_mobile_rip
+1 5 false
+goated_isp
+1 5 true
+bronco_cafe
+2 3 true
+google_fi
+1 4 true
+google_fiber_i_wish
+2 5 false
+cpp_guest
+2 1 true
+worst_isp_ever
+1 1 true

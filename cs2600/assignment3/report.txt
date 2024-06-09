@@ -1,0 +1,31 @@
+Assignment #3 Report
+By Valen DeLeon
+
+             .,-:;//;:=,
+         . :H@@@MM@M#H/.,+%;,
+      ,/X+ +M@@M@MM%=,-%HMMM@X/,
+     -+@MM; $M@@MH+-,;XMMMM@MMMM@+-
+    ;@M@@M- XM@X;. -+XXXXXHHH@M@M#@/.
+  ,%MM@@MH ,@%=            .---=-=:=,.
+  -@#@@@MX .,              -%HX$$%%%+;
+ =-./@M@M$                  .;@MMMM@MM:
+ X@/ -$MM/                    .+MM@@@M$
+,@M@H: :@:                    . -X#@@@@-
+,@@@MMX, .                    /H- ;@M@M=
+.H@@@@M@+,                    %MM+..%#$.
+ /MMMM@MMH/.                  XM@MH; -;
+  /%+%$XHH@$=              , .H@@@@MX,
+   .=--------.           -%H.,@@@@@MX,
+   .%MM@@@HHHXX$$$%+- .:$MMX -M@@MM%.
+     =XMMM@MM@MM#H;,-+HMM@M+ /MMMX=
+       =%@M@M#@$-.=$@MM@@@M; %M%=
+         ,:+$+-,/H#MMMMMMM@- -,
+               =++%%%%+/:-.
+
+----------------------------------------------------------------------------------
+
+> First of all, some basic comparisons. .bash was much shorter with 69 lines, while .csh is at 117. 
+hough, to me, csh is more readable in my opinion, its features are pretty limited. While .bash has lots 
+of features to get the code done faster. I had originally made a function for printing the menu in .bash 
+but in .csh, functions don't exist. So I painfully had to rewrite the code over and over... D: I also went 
+through so much more debugging on .csh than with .bash. Overall, I much prefer .bash :D

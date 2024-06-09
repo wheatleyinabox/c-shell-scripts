@@ -1,0 +1,44 @@
+2023-09-09 22:16:00 | bluetooth_medium.c (ERROR) - Remote bluetooth device (0xE4) rejected connection attempt.
+2023-09-09 22:16:01 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanning in progress...
+2023-09-09 22:16:02 | wifi_medium.c (VERBOSE) - Connected to Wi-Fi network eduroam. 5 other networks in range.
+2023-09-09 22:16:03 | bluetooth_medium.c (WARNING) - Unable to connect to remote bluetooth device (0xE4).
+2023-09-09 22:16:04 | storage_module.c (VERBOSE) - Storage status: OK. 53% full
+2023-09-09 22:16:06 | storage_module.c (VERBOSE) - Storage status: OK. 53% full
+2023-09-09 22:16:07 | wifi_status_provider.c (WARNING) - Wi-Fi signal is weak.
+2023-09-09 22:16:08 | storage_module.c (VERBOSE) - Storage status: OK. 53% full
+2023-09-09 22:16:09 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanning in progress...
+2023-09-09 22:16:11 | wifi_medium.c (VERBOSE) - Connected to Wi-Fi network eduroam. 5 other networks in range.
+2023-09-09 22:16:12 | battery_status_provider.c (INFO) - Current power level: 48.0
+2023-09-09 22:16:13 | wifi_medium.c (VERBOSE) - Connected to Wi-Fi network eduroam. 5 other networks in range.
+2023-09-09 22:16:14 | bluetooth_medium.c (ERROR) - Remote bluetooth device (0xE4) rejected connection attempt.
+2023-09-09 22:16:16 | bluetooth_controller.c (ERROR) - Unknown error with Bluetooth encountered. Restarting module...
+2023-09-09 22:16:17 | storage_module.c (VERBOSE) - Storage status: OK. 53% full
+2023-09-09 22:16:18 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanning in progress...
+2023-09-09 22:16:19 | gps_location_updater.c (VERBOSE) - Updating GPS location...
+2023-09-09 22:16:21 | storage_module.c (VERBOSE) - Storage status: OK. 53% full
+2023-09-09 22:16:22 | gps_location_updater.c (VERBOSE) - Updating GPS location...
+2023-09-09 22:16:23 | bluetooth_medium.c (WARNING) - Unable to connect to remote bluetooth device (0xE4).
+2023-09-09 22:16:24 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanning in progress...
+2023-09-09 22:16:25 | wifi_status_provider.c (WARNING) - Wi-Fi signal is weak.
+2023-09-09 22:16:27 | wifi_medium.c (VERBOSE) - Connected to Wi-Fi network eduroam. 5 other networks in range.
+2023-09-09 22:16:28 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323
+2023-09-09 22:16:29 | wifi_status_provider.c (WARNING) - Wi-Fi signal is weak.
+2023-09-09 22:16:30 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323
+2023-09-09 22:16:32 | storage_module.c (VERBOSE) - Storage status: OK. 53% full
+2023-09-09 22:16:33 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323
+2023-09-09 22:16:34 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanning in progress...
+2023-09-09 22:16:35 | bluetooth_controller.c (ERROR) - Unknown error with Bluetooth encountered. Restarting module...
+2023-09-09 22:16:37 | bluetooth_medium.c (ERROR) - Remote bluetooth device (0xE4) rejected connection attempt.
+2023-09-09 22:16:38 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323
+2023-09-09 22:16:39 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323
+2023-09-09 22:16:40 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323
+2023-09-09 22:16:42 | gps_location_updater.c (VERBOSE) - Updating GPS location...
+2023-09-09 22:16:43 | wifi_status_provider.c (WARNING) - Wi-Fi signal is weak.
+2023-09-09 22:16:44 | bluetooth_medium.c (ERROR) - Remote bluetooth device (0xE4) rejected connection attempt.
+2023-09-09 22:16:45 | bluetooth_medium.c (WARNING) - Unable to connect to remote bluetooth device (0xE4).
+2023-09-09 22:16:46 | storage_module.c (VERBOSE) - Storage status: OK. 53% full
+2023-09-09 22:16:48 | wifi_status_provider.c (WARNING) - Wi-Fi signal is weak.
+2023-09-09 22:16:49 | bluetooth_medium.c (ERROR) - Remote bluetooth device (0xE4) rejected connection attempt.
+2023-09-09 22:16:50 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanning in progress...
+2023-09-09 22:16:51 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanning in progress...
+2023-09-09 22:16:53 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323

@@ -1,0 +1,75 @@
+*** Welcome to the Fruit Vender Guild ***
+*** Select Fruits to buy ***
+(1) Apple
+(2) Banana
+(3) Orange
+(4) Kiwi
+(5) Watermelon
+(6) Checkout
+- Please select option (1-6):
+* Apple Selected (price: $1) *
+- Enter quantity:
+*** Welcome to the Fruit Vender Guild ***
+*** Select Fruits to buy ***
+(1) Apple
+(2) Banana
+(3) Orange
+(4) Kiwi
+(5) Watermelon
+(6) Checkout
+- Please select option (1-6):
+* Banana Selected (price: 2) *
+- Enter quantity:
+*** Welcome to the Fruit Vender Guild ***
+*** Select Fruits to buy ***
+(1) Apple
+(2) Banana
+(3) Orange
+(4) Kiwi
+(5) Watermelon
+(6) Checkout
+- Please select option (1-6):
+* Orange Selected (price: 3) *
+- Enter quantity:
+*** Welcome to the Fruit Vender Guild ***
+*** Select Fruits to buy ***
+(1) Apple
+(2) Banana
+(3) Orange
+(4) Kiwi
+(5) Watermelon
+(6) Checkout
+- Please select option (1-6):
+* Kiwi Selected (price: 4) *
+- Enter quantity:
+*** Welcome to the Fruit Vender Guild ***
+*** Select Fruits to buy ***
+(1) Apple
+(2) Banana
+(3) Orange
+(4) Kiwi
+(5) Watermelon
+(6) Checkout
+- Please select option (1-6):
+* Watermelon Selected (price: 5) *
+- Enter quantity:
+*** Welcome to the Fruit Vender Guild ***
+*** Select Fruits to buy ***
+(1) Apple
+(2) Banana
+(3) Orange
+(4) Kiwi
+(5) Watermelon
+(6) Checkout
+- Please select option (1-6):
+ERROR: Unknown Selection!
+*** Welcome to the Fruit Vender Guild ***
+*** Select Fruits to buy ***
+(1) Apple
+(2) Banana
+(3) Orange
+(4) Kiwi
+(5) Watermelon
+(6) Checkout
+- Please select option (1-6):
+* Checkout Selected. Grand total: $15 *

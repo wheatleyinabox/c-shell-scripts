@@ -1,0 +1,15 @@
+
+Assignment 1 - Filters & Pipes to Parse Logs
+---------------------------------------------
+
+Name:    Valen/Val DeLeon
+Bronco#: 015468518
+
+1.) grep bluetooth sys_logs > bt_logs
+2.) grep -e WARNING -e ERROR bt_logs > bt_error_logs
+3.) grep -A 10 "power level: 4.5" sys_logs > power_logs
+    cat ~/cs2600/assignment1/power_logs
+4.) Well I know the wifi wouldn't affect the device since the radio waves are weaker than that
+    of wifi. Practically speaking, I'd say that the two devices they're trying to pair are far away.    But if it's not any of those, it'll have to be some hardware/software issue. I'd likely report this
+    to my team lead or manager, and then see where we can go from there. Maybe access some more information
+    on the issue.

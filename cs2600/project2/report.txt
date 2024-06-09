@@ -1,0 +1,10 @@
+Assignment #2 Report
+
+By Valen DeLeon
+Bronco ID: 015468518
+
+-------------------------------------------------------------------------------
+
+I wasn't able to get very far into the project, I was honestly trying to understand and learn what it is I'm supposed to be doing. I had been following through with a tutorial online to trying to work through it. I'll give the link here just because I had lots of its code in my own work, but had it removed since well, it wasn't really my code and it didn't work for me. (https://www.youtube.com/watch?v=KEiur5aZnIM&t=2655s) I wanted to try and work off the slides and lecture we had so I have some understanding from both methods.
+
+A warning I would get a lot was a incompatible pointer, even in the code provided from the slides and the tutorial. Also just getting a basic connection was causing me trouble. I also wasn't sure what localhost port number to use, my mac gave me two so I just kinda picked one. This report is more just comments on my thought processes and code. I do love this project, it's really cool, maybe I'll figure out over the break. :P

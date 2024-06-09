@@ -1,0 +1,11 @@
+2023-09-09 22:20:30 | battery_status_provider.c (INFO) - Current power level: 4.5
+2023-09-09 22:20:31 | battery_monitor.c (WARNING) - Battery level critical, disabling non-critical functions...
+2023-09-09 22:20:32 | battery_controller.c (VERBOSE) - Disabling the following modules... Bluetooth, GPS.
+2023-09-09 22:20:35 | bluetooth_controller.c (ERROR) - Unknown error with Bluetooth encountered. Restarting module...
+2023-09-09 22:20:36 | bluetooth_controller.c (VERBOSE) - Bluetooth module not started.
+2023-09-09 22:20:34 | wifi_medium.c (VERBOSE) - Connected to Wi-Fi network eduroam. 5 other networks in range.
+2023-09-09 22:20:35 | bluetooth_medium.c (VERBOSE) - Bluetooth medium not started.
+2023-09-09 22:20:38 | bluetooth_scanner.c (VERBOSE) - Bluetooth scanner not started.
+2023-09-09 22:20:40 | wifi_status_provider.c (WARNING) - Wi-Fi signal is weak.
+2023-09-09 22:20:41 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323
+2023-09-09 22:20:42 | memory_module.c (VERBOSE) - RAM status: OK. 234521 / 535323

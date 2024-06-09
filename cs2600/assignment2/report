@@ -1,0 +1,54 @@
+
+        Assignment #2 Report
+
+            ,:/+/-
+            /M/              .,-=;//;-
+       .:/= ;MH/,    ,=/+%$XH@MM#@:
+      -$##@+$###@H@MMM#######H:.    -/H#
+ .,H@H@ X######@ -H#####@+-     -+H###@X
+  .,@##H;      +XM##M/,     =%@###@X;-
+X%-  :M##########$.    .:%M###@%:
+M##H,   +H@@@$/-.  ,;$M###@%,          -
+M####M=,,---,.-%%H####M$:          ,+@##
+@##################@/.         :%H##@$-
+M###############H,         ;HM##M$=
+#################.    .=$M##M$=
+################H..;XM##M$=          .:+
+M###################@%=           =+@MH%
+@#################M/.         =+H#X%=
+=+M###############M,      ,/X#H+:,
+  .;XM###########H=   ,/X#H+:;
+     .=+HM#######M+/+HM@+=.
+         ,:/%XM####H/.
+              ,.:=-.
+
+        By Valen DeLeon
+        Bronco ID: 015468518
+
+----------------------------------------------------------------------------------
+
+*NOTE: I got ScanNetworksV2() working 99%, but I can't for the
+life of me figure out why it doesn't print the last password_saved
+network, so that's my only disclaimer! :O
+
+----------------------------------------------------------------------------------
+
+1. How did you implement DetermineNetworks()?
+
+        So, for this method, I actually ended up making another method
+        because it was god awful to read with all the if statements. The
+        new method is called canConnect() and it basically compares critiera
+        passing through DetermineNetworks to the MEDIUM value in the current
+        network in the loop and returns true if it's what we're looking for.
+        Once that's done, it moves on to comparing the signal strengths, taking
+        the larger of two network strengths until it just has on saved and then
+        returns the Best Network (TM)!
+
+2. How would you implement ScanNetworksV3()?
+
+        For ScanNetworksV3(), I would probably go through with combining
+        DetermineNetworks with it in a way. Filter out the networks with
+        strongest signal strengths. To be more realisic, I'd probably have
+        a range from 3-5, sticking with 3 if that's the best strength.
+
+----------------------------------------------------------------------------------
